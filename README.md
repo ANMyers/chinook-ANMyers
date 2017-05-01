@@ -1,5 +1,14 @@
-# chinook-ANMyers
+# Chinook Exercise
 Exercise in sql tackling query statements from the chinook database
+This exercise is from [SQL_CHINOOK](https://github.com/nss-day-cohort-18/bangazon-llc/blob/master/orientation/exercises/17_SQL_CHINOOK.md) exercise.
+
+
+
+
+
+
+
+
 
 # Learning SQL with Chinook
 
